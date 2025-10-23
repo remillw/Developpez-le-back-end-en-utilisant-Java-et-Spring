@@ -180,7 +180,7 @@
           "fallbackTo404": false,
           "default": true,
           "databucketID": "",
-          "bodyType": "INLINE",
+          "bodyType": "DATABUCKET",
           "crudKey": "id",
           "callbacks": []
         },

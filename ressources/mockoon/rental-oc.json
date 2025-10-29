@@ -50,7 +50,7 @@
           "fallbackTo404": false,
           "default": false,
           "databucketID": "",
-          "bodyType": "INLINE",
+          "bodyType": "DATABUCKET",
           "crudKey": "id",
           "callbacks": []
         },
@@ -69,7 +69,7 @@
           "fallbackTo404": false,
           "default": true,
           "databucketID": "",
-          "bodyType": "INLINE",
+          "bodyType": "DATABUCKET",
           "crudKey": "id",
           "callbacks": []
         }

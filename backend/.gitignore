@@ -47,6 +47,7 @@ uploads/
 ### Application Properties (credentials) ###
 application-local.properties
 application-prod.properties
+.env
 
 ### Maven ###
 pom.xml.tag
